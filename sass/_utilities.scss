@@ -11,3 +11,26 @@
 .align-center { align-items: center; }
 .justify-center { justify-content: center; }
 
+.bg-primary {
+    background-color: $primary-color;
+  }
+  
+  .text-primary {
+    color: $primary-color;
+  }
+  
+  .m-1 {
+    margin: $spacing-unit;
+  }
+  
+  .p-1 {
+    padding: $spacing-unit;
+  }
+  
+  .font-bold {
+    font-weight: $font-weight-bold;
+  }
+  
+  .border-1 {
+    border: 1px solid $text-color;
+  }
